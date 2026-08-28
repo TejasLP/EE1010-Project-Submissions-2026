@@ -1,7 +1,7 @@
 ﻿Digital Clock - References used
 
 
-* Clock- main.pdf	(https://github.com/gadepall/clock/blob/main/main.pdf)
+* Digital design- main.pdf	(https://github.com/gadepall/digital-design-28-01-25/blob/main/main.pdf)
 	- Digital Design
 	- Understanding KMaps and basic practice
 	- Circuit Building 
@@ -9,7 +9,7 @@
 	- Fetching the reference C++ code for the working of the clock
 
 
-* Digital design- main.pdf  	(https://github.com/gadepall/digital-design-28-01-25/blob/main/main.pdf)
+* Clock- main.pdf  	        (https://github.com/gadepall/clock/blob/main/main.pdf)
         - Component Selection
         - Clock Logic 
         - Circuit Schematic
