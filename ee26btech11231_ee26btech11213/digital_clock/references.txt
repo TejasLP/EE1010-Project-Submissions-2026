@@ -1,0 +1,38 @@
+﻿Digital Clock - References used
+
+
+* Clock- main.pdf	(https://github.com/gadepall/clock/blob/main/main.pdf)
+	- Digital Design
+	- Understanding KMaps and basic practice
+	- Circuit Building 
+	- Applications in Arduino IDE and Termux 
+	- Fetching the reference C++ code for the working of the clock
+
+
+* Digital design- main.pdf  	(https://github.com/gadepall/digital-design-28-01-25/blob/main/main.pdf)
+        - Component Selection
+        - Clock Logic 
+        - Circuit Schematic
+
+
+* LLMs, mainly Gemini 
+	- Circuit Building 
+	- Circuit Organization     
+	- Researching on Working of Components, primarily the Arduino Uno Microcontroller, Common Anode Displays and the working of IC 7447
+	- Understanding concepts required applied in the working of the clock such as Multiplexing, Debouncing, State Machines
+	- Understanding the working of the code to inculcate any ideas, such as innovating the clock to work without 12k ohm resistors, or adding a timer function to the original design
+	- Troubleshooting issues with the clock 
+	- Troubleshooting issues with uploading the code and issues with working of the code itself
+	- A “How to” for latex and also helping to better organize the document
+	- Testing edge cases 
+
+
+* Surfing on the Web(Googling)
+	- Discrepancies in certain concepts such as Multiplexing, Ghosting of   Displays
+	- Obtaining certain Images for showcase in the Latex Document
+
+
+* Assistance from the TAs 
+        - Setting up Arduino IDE and Termux
+	- Setting up Git
+	- Queries regarding the project
